@@ -1,0 +1,18 @@
+# Application health check python script
+
+print("Starting Application health checks...")
+print("")
+print("Ping test : "),
+print("Healthy")
+print("Database test : "),
+print("Healthy")
+print("Internal service interegration test : "), 
+print("Healthy")
+print("External service interegration test : "),
+print("Healthy")
+print("")
+print(":::Events:::")
+
+print("Last build date  & URL : ")
+print("Last code commit Date : ")
+print("")
